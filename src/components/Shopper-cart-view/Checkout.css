@@ -1,0 +1,33 @@
+.total{
+    box-shadow: 5px 2px grey;
+    height:100vh;
+   
+}
+/* .form-box {
+    width: 100%;
+    align-items: center;
+    margin-left: 10px;
+    margin-bottom: 3px;
+    border:2px solid black;
+    padding:7px;
+    
+} */
+.input-box {
+    border: 1px solid black;
+   
+    
+    
+}
+.darkbtn{
+    background-color:whitesmoke;
+    color:black;
+    border:2px solid black;
+    margin-top: 30px;
+   
+
+}
+.horizontal{
+    height: 5px;
+    background-color:grey;
+    color:black
+}

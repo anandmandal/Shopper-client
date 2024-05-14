@@ -1,0 +1,21 @@
+.title-head{
+    font-size: 20px;
+    
+}
+.title{
+    font-size: 20px;
+    text-shadow: none;
+}
+.img-inside{
+    height: 300px;
+    width:300px;
+    margin-right: 20px;
+    transition: all 0.5 ease-out;
+}
+.img-inside:hover{
+    transform: scale(1.1);
+}
+.btncart{
+    width: 150px;
+    height:40px;
+}

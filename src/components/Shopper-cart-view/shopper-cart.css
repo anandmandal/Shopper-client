@@ -1,0 +1,17 @@
+.checkoutBtn{
+color: white;
+background: black;
+width: 150px;
+height:50px;
+align-items: right;
+}
+.checkoutElement{
+   margin-top: 30px;
+   display: flex;
+   justify-content: center;
+   text-shadow: 2px 0px black;
+}
+.title{
+   color: black;
+   text-shadow: 2px 0px white;
+}
